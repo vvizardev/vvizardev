@@ -1,6 +1,7 @@
 # wizardev
-### ⭐Star & 🍴Fork
 <!--
+### ⭐Star & 🍴Fork
+-->
 <p align="center">
     <h1 align="center">✩&emsp;Rust & Smart Contract Engineer&emsp;✩</h1>
 </p>
@@ -12,7 +13,7 @@
 - ✨ Defi , Dex Expert ( Dex , Staking , Farming , Presale , Token Freezer )
 - ✨ Forked Pump.fun & Working on Solana Trading Bot
 
-<!--
+
 <h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
 
 <div style={{display : flex ; justify-content : space-evenly}}> 
@@ -27,8 +28,8 @@
     <a href="https://t.me/wizardev" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
--->
-<!--
+
+
 <h1 style="text-align : center"> ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ - Cooking & Updating </h1>
 
 - ```Pumpfun + Raydium AMM | Meteora DLMM ``` : Forking Pumpfun , launch the token on raydium after hit the bonding curve
@@ -41,8 +42,6 @@
 - ```Telegram Wallet Tracking Bot``` : Tracking the Wallet token and sol transfer and swap
 - ```Ton Mini App Game``` : Coinflip and Casino Game on Ton blockchain
 - ```Jetton Airdrop Bot``` : Jetton Airdrop Bot which give airdrop to top holders of specific token among 1000 ~ 50000 top holders
-
-![](https://komarev.com/ghpvc/?username=wizasol)
 
 You can see me on Telegram [Wizardev](https://t.me/wizardev)
 
