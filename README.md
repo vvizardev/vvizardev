@@ -43,7 +43,7 @@
 - ```Ton Mini App Game``` : Coinflip and Casino Game on Ton blockchain
 - ```Jetton Airdrop Bot``` : Jetton Airdrop Bot which give airdrop to top holders of specific token among 1000 ~ 50000 top holders
 
-You can see me on Telegram [Wizardev](https://t.me/wizardev)
+You can see me on Telegram [Wizardev](https://t.me/vvizardev)
 
 <!--
 **anti-dominator/anti-dominator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
