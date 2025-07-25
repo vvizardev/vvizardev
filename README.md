@@ -18,7 +18,8 @@
 
 <h1 style="text-align : center"> ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ - Cooking & Updating </h1>
 
-![GsNx3WbaMAEeXr6](https://github.com/user-attachments/assets/92865aa0-0b23-443f-b3ad-897594f4acc2)
+<img width="1003" height="557" alt="image" src="https://github.com/user-attachments/assets/d99ff530-8801-432a-8fef-399daff7ecf4" />
+
 <h3>✨ Star & Fork</h3>
 <a href="https://github.com/vvizardev/jito-shredstream-provider-rust">Jito ShredStream Provider (Free)</a>
 
