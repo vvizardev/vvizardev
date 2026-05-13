@@ -22,6 +22,7 @@
 - Solana Relayer Adapter, Dex Aggregator
 - Pumpfun, Bagsfm Sniper, Bundler, Fourmeme Sniper
 - Future Trading, Perps Trading, Polymarket
+- Forking Polymarket on Solana
 
 <h3>✨ Star & Fork</h3>
 <a href="https://github.com/vvizardev/jito-shredstream-provider-rust">Jito ShredStream Provider (Free)</a>
